@@ -1,8 +1,8 @@
 {
   "name": "@velmalabs/colors",
-  "description": "A colors component for svelte 5",
+  "description": "A colors module for svelte 5",
   "author": "Maikel ten Voorde",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "license": "MIT",
   "repository": {
